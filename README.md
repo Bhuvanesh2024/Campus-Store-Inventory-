@@ -7,7 +7,7 @@ Students and staff can view available items (optional: place orders)
 ### Tech Stack
 **Backend:** Spring Boot (Spring Web, Spring Data JPA)
 **Database:** MySQL
-**Frontend:** Thymeleaf (optional UI)
+**Frontend:** Thymeleaf (optional UI)..
 **Tools:**: Maven / Gradle, Lombok
 
 ### Project Architecture
